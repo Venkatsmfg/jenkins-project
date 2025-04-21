@@ -2,5 +2,5 @@ projectKey=com.example:mindcircuitbatch13
 serverUrl=http://3.149.247.69:9000
 serverVersion=25.4.0.105899
 dashboardUrl=http://3.149.247.69:9000/dashboard?id=com.example%3Amindcircuitbatch13
-ceTaskId=808aebbf-c5f3-47b5-9274-5348aaf31c42
-ceTaskUrl=http://3.149.247.69:9000/api/ce/task?id=808aebbf-c5f3-47b5-9274-5348aaf31c42
+ceTaskId=29bc9f45-22e3-4347-ad88-13f100de001a
+ceTaskUrl=http://3.149.247.69:9000/api/ce/task?id=29bc9f45-22e3-4347-ad88-13f100de001a
